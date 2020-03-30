@@ -15,7 +15,7 @@ const Login = () => {
             <TextInput
                 style={styles.nameInput}
                 onChangeText={text => setName(text)}
-                placeholder='Please insert your name'
+                placeholder='Insert your name'
             />
             <TouchableOpacity onPress={() => navigation.navigate('Explore', { name: name })}>
                 <View style={styles.signUpBtn}>

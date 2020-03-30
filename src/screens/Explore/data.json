@@ -1,0 +1,21 @@
+{
+  "books":[
+    {
+        "name": "1984",
+        "author": "George Orwell",
+        "rating": "4.9"
+    },
+    
+    {
+        "name": "Clockwork Orange",
+        "author": "Anthony Burgess",
+        "rating": "4.4"
+    },
+    
+    {
+        "name": "Flowers for Algernon",
+        "author": "Daniel Keyes",
+        "rating": "4.5"
+    }
+  ]
+}
